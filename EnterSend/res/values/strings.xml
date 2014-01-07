@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">EnterSend</string>
-    <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="send">Send</string>
+    <string name="type_something">type something</string>
 
 </resources>
